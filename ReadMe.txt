@@ -13,7 +13,7 @@
     Microsoft Visual Studio Code  : IDE
     Linux                         : Universal Running and Testing Environment
     FreyaHolmer                   : Shader Math Concepts
-    South Dakota State University : Basic C++ Concepts, Math Concepts
+    South Dakota State University : Basic C C++ C# Concepts, Math Concepts, Essential Computer Science Concepts
     OpenAI, ChatGPT               : C++ Syntax Laydown, Network Structure Consolidation
     Wix, GitHub                   : Distribution Platform
 
@@ -26,11 +26,11 @@
 [ User Agreements ]
 
     these are all M2007U-made repositories, feel free to make changes to these classes to fit your needs.
-    By downloading and Including any library here in your creation, you agree that
+    By downloading and Including any library here in your creation, you agree and acknowledge that
     
     1. include a link to our website or GitHub profile page in your acknowledgments section in your project
     2. your project aims for Hippocratic Aims or Artistic Purposes.
-        - These Libraries are created for the greater good.
+        - These Libraries are created for the greater good and inspiration.
         - If you are caught using our creations for anti-Hippocratic Purposes, you will be added to our blacklist and do not have permission to use our creations
         - In other words, do not use our stuff to cause harm
     3. you are only allowed to use these repositories for personal projects or team projects
@@ -38,11 +38,11 @@
         - if you are a student and using this for an assignment or a project
             - you MUST cite this as a source
             - your instructor allows you to use external resources like this one
-            - your instructor has the right to disapprove your submissions if it violates the set criteria of your assignments.
+            - your instructor has the right to disapprove your submissions if using our repos violates the set criteria of your assignments.
         - if you find your name in the author section
             - you have contributed to the repository, and thus the repositories are considered as your partial work
-            - if you were to use this in your project or assignments, you may need to discuss with your instructor
-    4. You can download and LEARN from it, and get inspired from it.
+            - if you were to use this in your project or assignments, you may need to discuss it with your instructor
+    4. You can download and LEARN from it, and get inspired.
 
 ​
 
